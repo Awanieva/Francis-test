@@ -1,6 +1,5 @@
 File_segreti/
+Lib/
 *.txt 
 
 #Ignore any text
-
-Lib/
