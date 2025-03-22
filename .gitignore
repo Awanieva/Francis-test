@@ -1,0 +1,6 @@
+File_segreti/
+*.txt 
+
+#Ignore any text
+
+!lib/
